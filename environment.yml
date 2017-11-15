@@ -1,4 +1,4 @@
 name: tensor-flow
 dependencies:
-	python=2.7
-	pip
+  - python=2.7
+  - pip
